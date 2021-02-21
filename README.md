@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I am María Pérez Campos, Big Data and Data Science student. Here you will find some about me and see my code. Glad you're around and feel free to take a look! :smiley:
+
+
+Who am I?
+-	:earth_africa:🌱 Open mind and interested in the world.
+-	:mortar_board: I've been studying a Big Data & Business Analytics Master since 2020.
+-	:computer: I program in two languages: Python and R.
+-	:books: I’m finishing my studies on Data Science.
+-	:credit_card: I’m currently working in my PFM with a huge Kaggle dataset in the banking sector.
+-	:chart_with_upwards_trend: I have a background in Statistic knowledge thanks to my studies in psychology.
+-	⚡ Trying to improve every day, get good programming practices, and write clean code.
+-	:game_die::video_game: Boardgamegeek and lover of indies and retro videogames.
+- :book::cat: There is nothing better than reading with a cat.
+- 💬:blush: Ask me about all you want. Any suggestion will be welcome!
