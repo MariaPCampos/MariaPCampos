@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am María Pérez Campos, Big Data and Data Science student. Here you will find some about me and see my code. Glad you're around and feel free to take a look! :smiley:
+I am María Pérez Campos, data lover and Big Data and Data Science student. Here you will find some about me and see my code. Glad you're around and feel free to take a look! :smiley:
 
 
 Who am I?
 -	:earth_africa:🌱 Open mind and interested in the world.
 -	:mortar_board: I've been studying a Big Data & Business Analytics Master since 2020.
 -	:computer: I program in two languages: Python and R.
--	:books: I’m finishing my studies on Data Science.
--	:credit_card: I’m currently working in my PFM with a huge Kaggle dataset in the banking sector.
+-	:books: I’m in continuous learning, doing courses related to artificial intelligence, machine learning, and big data.
+-	:credit_card: I have realized my PFM with a huge Kaggle dataset in the banking sector.
+-	:hospital: I’m currently working on Alzheimer's detection challenge organized by AIcrowd, using ML models and Python code. 
 -	:chart_with_upwards_trend: I have a background in Statistic knowledge thanks to my studies in psychology.
 -	⚡ Trying to improve every day, get good programming practices, and write clean code.
 -	:game_die::video_game: Boardgamegeek and lover of indies and retro videogames.
